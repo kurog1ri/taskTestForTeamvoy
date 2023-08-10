@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+// main
 struct ContentView: View {
     @ObservedObject var viewModel = ViewModel()
     
